@@ -39,7 +39,7 @@ namespace WebAPITestProject
             testResults.Add(3);
             testResults.Add(4);
 
-            Assert.IsTrue(testResults[0] == testCourses[1]);
+            Assert.IsTrue(testResults[0] == testCourses[0]);
 
 
         }
