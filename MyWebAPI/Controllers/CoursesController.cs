@@ -9,7 +9,7 @@ namespace MyWebAPI.Controllers
 {
     public class CoursesController : ApiController
     {
-        public List<int> Get()
+        public List<int> GetCourses()
         {
             List<int> test = new List<int>();
             test.Add(1);

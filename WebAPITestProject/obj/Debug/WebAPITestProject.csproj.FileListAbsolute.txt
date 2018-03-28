@@ -1,0 +1,17 @@
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\obj\Debug\WebAPITestProject.csprojResolveAssemblyReference.cache
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\WebAPITestProject.dll
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\WebAPITestProject.pdb
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\MyWebAPI.dll
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\System.Web.Http.dll
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\System.Web.Http.WebHost.dll
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\System.Net.Http.Formatting.dll
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\Newtonsoft.Json.dll
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\MyWebAPI.pdb
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\System.Web.Http.xml
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\System.Web.Http.WebHost.xml
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\System.Net.Http.Formatting.xml
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\bin\Debug\Newtonsoft.Json.xml
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\obj\Debug\WebAPITestProject.dll
+D:\Aus\MyStudy\SampleApps\MyWebAPI\WebAPITestProject\obj\Debug\WebAPITestProject.pdb
