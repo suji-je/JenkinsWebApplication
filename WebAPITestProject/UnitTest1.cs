@@ -44,6 +44,23 @@ namespace WebAPITestProject
 
         }
 
+        [TestMethod]
+        public void TestMethod3()
+        {
+            CoursesController controller = new CoursesController();
+            List<int> testCourses = controller.GetCourses();
+
+            List<int> testResults = new List<int>();
+            testResults.Add(1);
+            testResults.Add(2);
+            testResults.Add(3);
+            testResults.Add(4);
+
+            Assert.IsTrue(testCourses[3] == 4);
+
+
+        }
+
 
     }
 }
