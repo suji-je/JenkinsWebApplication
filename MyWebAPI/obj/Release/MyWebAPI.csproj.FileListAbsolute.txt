@@ -69,4 +69,3 @@ D:\Aus\MyStudy\SampleApps\MyWebAPI\MyWebAPI\obj\Release\Package\PackageTmp\bin\r
 D:\Aus\MyStudy\SampleApps\MyWebAPI\MyWebAPI\obj\Release\Package\PackageTmp\bin\roslyn\VBCSCompiler.exe
 D:\Aus\MyStudy\SampleApps\MyWebAPI\MyWebAPI\obj\Release\Package\PackageTmp\bin\roslyn\VBCSCompiler.exe.config
 D:\Aus\MyStudy\SampleApps\MyWebAPI\MyWebAPI\obj\Release\Package\PackageTmp\Web.config
-D:\Aus\MyStudy\SampleApps\MyWebAPI\MyWebAPI\obj\Release\Package\MyWebAPI.SourceManifest.xml
